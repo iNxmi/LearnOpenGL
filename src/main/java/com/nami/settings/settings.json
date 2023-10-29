@@ -1,0 +1,34 @@
+{
+  "window": {
+    "width": "1920",
+    "height": "1080",
+    "aspect": {
+      "w": "16",
+      "h": "9"
+    },
+    "monitor": "0",
+    "fps": "240",
+    "vsync": "false",
+    "fullscreen": "true"
+  },
+  "user": {
+    "fov": "90",
+    "sensivity": "0.1"
+  },
+  "render": {
+    "msaa": "8"
+  },
+  "controls": {
+    "forward": "87",
+    "left": "65",
+    "backward": "83",
+    "right": "68",
+    "up": "32",
+    "down": "341",
+    "sprint": "340",
+    "zoom": "67",
+    "exit": "256",
+    "screenshot": "291",
+    "fullscreen": "300"
+  }
+}
